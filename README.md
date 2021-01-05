@@ -1,5 +1,7 @@
 # RegexTutorial
 
+# Gist Link: https://gist.github.com/Srikar2020/9cbb04b16276e0bd7a628085543b28fb
+
 # Validate Email Input (Regex)
  
 Regular expressions or Regex are characters that are used to form a pattern of words or characters to be able to srarch within texts. They are great at extracting lots of information from the text. The other regular expressions paterns use unicode characters in matching other texts such as the international. 
