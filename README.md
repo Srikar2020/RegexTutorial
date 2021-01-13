@@ -7,8 +7,8 @@
 Regular expressions or Regex are characters that are used to form a pattern of words or characters to be able to srarch within texts. They are great at extracting lots of information from the text. The other regular expressions paterns use unicode characters in matching other texts such as the international. 
 
 # Table of Contents
-1. Summary
-2. Anchors
+1. [Summary](#Summary)
+2. [Anchors](#Anchors)
 3. Quantifiers
 4.
 
