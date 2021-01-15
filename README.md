@@ -9,8 +9,13 @@ Regular expressions or Regex are characters that are used to form a pattern of w
 # Table of Contents
 1. [Summary](#Summary)
 2. [Anchors](#Anchors)
-3. Quantifiers
-4.
+3. [Quantifiers](#Quantifiers)
+4. [OR Operator](#OR Operator)
+5. [Character Classes](#Character Classes)
+6. [Flags](#Flags)
+7. [Grouping and Capturing](#Grouping and Capturing)
+8. [Bracket Expressions](#Bracket Expressions)
+9. [Author](#Author)
 
 # Summary 
 
@@ -64,3 +69,7 @@ Square brackets in Regex [] are to designate a characters class and match a sing
 \ The general escape Character 
 
 ^ This negates the class
+
+# Author
+
+https://github.com/Srikar2020?tab=repositories
